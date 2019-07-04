@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is dev-2
+ok
+=======
+this is dev-2
+>>>>>>> b97adfa92f2502e8214bfea024b065ff4037ad95

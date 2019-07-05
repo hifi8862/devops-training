@@ -1,4 +1,8 @@
 This is Jaspreet Singh
 I am learning Github
+<<<<<<< HEAD
 Amandeep
+=======
+Jaspreet
+>>>>>>> ca64bec5fe91f351923f70d326b1fa6a99ff7fbc
 ok

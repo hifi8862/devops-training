@@ -1,0 +1,4 @@
+This is Day-5 DevOps Class
+Learnt git push and conflit check
+We to study hard
+bye bye

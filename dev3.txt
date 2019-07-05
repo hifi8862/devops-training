@@ -1,8 +1,0 @@
-	iThis is Day-5 DevOps Class
-This is Day-5 DevOps Class
-Learnt git push and conflit check
-We learnt Git Merge and Git Diff
-We to study hard
-ok
-ko
-bye bye

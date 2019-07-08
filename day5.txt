@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 hyd
 ambala
 blr
+=======
+ambala
+>>>>>>> parent of 9dba0ef... day6.v1
 jkjfsjdfjsdfjdffjddsjf
 pathankot
 i am changing this-jaspreet

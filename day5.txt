@@ -15,4 +15,3 @@ hhhhh
 day-6
 hari
 conficts
-revert

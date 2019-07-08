@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hyd
 ambala
 blr
 =======
 ambala
 >>>>>>> parent of 9dba0ef... day6.v1
+=======
+Amritsar punjab
+>>>>>>> parent of 8f4bcd6... Update day5.txt
 jkjfsjdfjsdfjdffjddsjf
 pathankot
 i am changing this-jaspreet

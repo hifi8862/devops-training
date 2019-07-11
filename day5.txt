@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-hyd
-ambala
-blr
-=======
-ambala
->>>>>>> parent of 9dba0ef... day6.v1
-jkjfsjdfjsdfjdffjddsjf
-pathankot
-i am changing this-jaspreet
-okkkkkk
-koo
-byeeeee
-hhhhh
-day-6
-hari
-conficts
+This is new file creatng from dev 1
